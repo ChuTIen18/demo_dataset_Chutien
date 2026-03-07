@@ -1,0 +1,652 @@
+[
+  {
+    "source": "Kaggle",
+    "flower_type": "daisy",
+    "path": "/data/daisy/daisy_0000.jpg"
+  },
+  {
+    "source": "Kaggle",
+    "flower_type": "daisy",
+    "path": "/data/daisy/daisy_0001.jpg"
+  },
+  {
+    "source": "Kaggle",
+    "flower_type": "daisy",
+    "path": "/data/daisy/daisy_0002.jpg"
+  },
+  {
+    "source": "Kaggle",
+    "flower_type": "daisy",
+    "path": "/data/daisy/daisy_0003.jpg"
+  },
+  {
+    "source": "Kaggle",
+    "flower_type": "daisy",
+    "path": "/data/daisy/daisy_0004.jpg"
+  },
+  {
+    "source": "Kaggle",
+    "flower_type": "daisy",
+    "path": "/data/daisy/daisy_0005.jpg"
+  },
+  {
+    "source": "Kaggle",
+    "flower_type": "daisy",
+    "path": "/data/daisy/daisy_0006.jpg"
+  },
+  {
+    "source": "Kaggle",
+    "flower_type": "daisy",
+    "path": "/data/daisy/daisy_0007.jpg"
+  },
+  {
+    "source": "Kaggle",
+    "flower_type": "daisy",
+    "path": "/data/daisy/daisy_0008.jpg"
+  },
+  {
+    "source": "Kaggle",
+    "flower_type": "daisy",
+    "path": "/data/daisy/daisy_0009.jpg"
+  },
+  {
+    "source": "Kaggle",
+    "flower_type": "daisy",
+    "path": "/data/daisy/daisy_0010.jpg"
+  },
+  {
+    "source": "Kaggle",
+    "flower_type": "daisy",
+    "path": "/data/daisy/daisy_0011.jpg"
+  },
+  {
+    "source": "Kaggle",
+    "flower_type": "daisy",
+    "path": "/data/daisy/daisy_0012.jpg"
+  },
+  {
+    "source": "Kaggle",
+    "flower_type": "daisy",
+    "path": "/data/daisy/daisy_0013.jpg"
+  },
+  {
+    "source": "Kaggle",
+    "flower_type": "daisy",
+    "path": "/data/daisy/daisy_0014.jpg"
+  },
+  {
+    "source": "Kaggle",
+    "flower_type": "daisy",
+    "path": "/data/daisy/daisy_0015.jpg"
+  },
+  {
+    "source": "Kaggle",
+    "flower_type": "daisy",
+    "path": "/data/daisy/daisy_0016.jpg"
+  },
+  {
+    "source": "Kaggle",
+    "flower_type": "daisy",
+    "path": "/data/daisy/daisy_0017.jpg"
+  },
+  {
+    "source": "Kaggle",
+    "flower_type": "daisy",
+    "path": "/data/daisy/daisy_0018.jpg"
+  },
+  {
+    "source": "Kaggle",
+    "flower_type": "daisy",
+    "path": "/data/daisy/daisy_0019.jpg"
+  },
+  {
+    "source": "Kaggle",
+    "flower_type": "daisy",
+    "path": "/data/daisy/daisy_0020.jpg"
+  },
+  {
+    "source": "Kaggle",
+    "flower_type": "daisy",
+    "path": "/data/daisy/daisy_0021.jpg"
+  },
+  {
+    "source": "Kaggle",
+    "flower_type": "daisy",
+    "path": "/data/daisy/daisy_0022.jpg"
+  },
+  {
+    "source": "Kaggle",
+    "flower_type": "daisy",
+    "path": "/data/daisy/daisy_0023.jpg"
+  },
+  {
+    "source": "Kaggle",
+    "flower_type": "daisy",
+    "path": "/data/daisy/daisy_0024.jpg"
+  },
+  {
+    "source": "Kaggle",
+    "flower_type": "daisy",
+    "path": "/data/daisy/daisy_0025.jpg"
+  },
+  {
+    "source": "Kaggle",
+    "flower_type": "daisy",
+    "path": "/data/daisy/daisy_0026.jpg"
+  },
+  {
+    "source": "Kaggle",
+    "flower_type": "daisy",
+    "path": "/data/daisy/daisy_0027.jpg"
+  },
+  {
+    "source": "Kaggle",
+    "flower_type": "daisy",
+    "path": "/data/daisy/daisy_0028.jpg"
+  },
+  {
+    "source": "Kaggle",
+    "flower_type": "daisy",
+    "path": "/data/daisy/daisy_0029.jpg"
+  },
+  {
+    "source": "Kaggle",
+    "flower_type": "daisy",
+    "path": "/data/daisy/daisy_0030.jpg"
+  },
+  {
+    "source": "Kaggle",
+    "flower_type": "daisy",
+    "path": "/data/daisy/daisy_0031.jpg"
+  },
+  {
+    "source": "Kaggle",
+    "flower_type": "daisy",
+    "path": "/data/daisy/daisy_0032.jpg"
+  },
+  {
+    "source": "Kaggle",
+    "flower_type": "daisy",
+    "path": "/data/daisy/daisy_0033.jpg"
+  },
+  {
+    "source": "Kaggle",
+    "flower_type": "daisy",
+    "path": "/data/daisy/daisy_0034.jpg"
+  },
+  {
+    "source": "Kaggle",
+    "flower_type": "daisy",
+    "path": "/data/daisy/daisy_0035.jpg"
+  },
+  {
+    "source": "Kaggle",
+    "flower_type": "daisy",
+    "path": "/data/daisy/daisy_0036.jpg"
+  },
+  {
+    "source": "Kaggle",
+    "flower_type": "daisy",
+    "path": "/data/daisy/daisy_0037.jpg"
+  },
+  {
+    "source": "Kaggle",
+    "flower_type": "daisy",
+    "path": "/data/daisy/daisy_0038.jpg"
+  },
+  {
+    "source": "Kaggle",
+    "flower_type": "daisy",
+    "path": "/data/daisy/daisy_0039.jpg"
+  },
+  {
+    "source": "Kaggle",
+    "flower_type": "daisy",
+    "path": "/data/daisy/daisy_0040.jpg"
+  },
+  {
+    "source": "Kaggle",
+    "flower_type": "daisy",
+    "path": "/data/daisy/daisy_0041.jpg"
+  },
+  {
+    "source": "Kaggle",
+    "flower_type": "daisy",
+    "path": "/data/daisy/daisy_0042.jpg"
+  },
+  {
+    "source": "Kaggle",
+    "flower_type": "daisy",
+    "path": "/data/daisy/daisy_0043.jpg"
+  },
+  {
+    "source": "Kaggle",
+    "flower_type": "daisy",
+    "path": "/data/daisy/daisy_0044.jpg"
+  },
+  {
+    "source": "Kaggle",
+    "flower_type": "daisy",
+    "path": "/data/daisy/daisy_0045.jpg"
+  },
+  {
+    "source": "Kaggle",
+    "flower_type": "daisy",
+    "path": "/data/daisy/daisy_0046.jpg"
+  },
+  {
+    "source": "Kaggle",
+    "flower_type": "daisy",
+    "path": "/data/daisy/daisy_0047.jpg"
+  },
+  {
+    "source": "Kaggle",
+    "flower_type": "daisy",
+    "path": "/data/daisy/daisy_0048.jpg"
+  },
+  {
+    "source": "Kaggle",
+    "flower_type": "daisy",
+    "path": "/data/daisy/daisy_0049.jpg"
+  },
+  {
+    "source": "Kaggle",
+    "flower_type": "daisy",
+    "path": "/data/daisy/daisy_0050.jpg"
+  },
+  {
+    "source": "Kaggle",
+    "flower_type": "daisy",
+    "path": "/data/daisy/daisy_0051.jpg"
+  },
+  {
+    "source": "Kaggle",
+    "flower_type": "daisy",
+    "path": "/data/daisy/daisy_0052.jpg"
+  },
+  {
+    "source": "Kaggle",
+    "flower_type": "daisy",
+    "path": "/data/daisy/daisy_0053.jpg"
+  },
+  {
+    "source": "Kaggle",
+    "flower_type": "daisy",
+    "path": "/data/daisy/daisy_0054.jpg"
+  },
+  {
+    "source": "Kaggle",
+    "flower_type": "daisy",
+    "path": "/data/daisy/daisy_0055.jpg"
+  },
+  {
+    "source": "Kaggle",
+    "flower_type": "daisy",
+    "path": "/data/daisy/daisy_0056.jpg"
+  },
+  {
+    "source": "Kaggle",
+    "flower_type": "daisy",
+    "path": "/data/daisy/daisy_0057.jpg"
+  },
+  {
+    "source": "Kaggle",
+    "flower_type": "daisy",
+    "path": "/data/daisy/daisy_0058.jpg"
+  },
+  {
+    "source": "Kaggle",
+    "flower_type": "daisy",
+    "path": "/data/daisy/daisy_0059.jpg"
+  },
+  {
+    "source": "Kaggle",
+    "flower_type": "daisy",
+    "path": "/data/daisy/daisy_0060.jpg"
+  },
+  {
+    "source": "Kaggle",
+    "flower_type": "daisy",
+    "path": "/data/daisy/daisy_0061.jpg"
+  },
+  {
+    "source": "Kaggle",
+    "flower_type": "daisy",
+    "path": "/data/daisy/daisy_0062.jpg"
+  },
+  {
+    "source": "Kaggle",
+    "flower_type": "daisy",
+    "path": "/data/daisy/daisy_0063.jpg"
+  },
+  {
+    "source": "Kaggle",
+    "flower_type": "daisy",
+    "path": "/data/daisy/daisy_0064.jpg"
+  },
+  {
+    "source": "Kaggle",
+    "flower_type": "daisy",
+    "path": "/data/daisy/daisy_0065.jpg"
+  },
+  {
+    "source": "Kaggle",
+    "flower_type": "daisy",
+    "path": "/data/daisy/daisy_0066.jpg"
+  },
+  {
+    "source": "Kaggle",
+    "flower_type": "daisy",
+    "path": "/data/daisy/daisy_0067.jpg"
+  },
+  {
+    "source": "Kaggle",
+    "flower_type": "daisy",
+    "path": "/data/daisy/daisy_0068.jpg"
+  },
+  {
+    "source": "Kaggle",
+    "flower_type": "daisy",
+    "path": "/data/daisy/daisy_0069.jpg"
+  },
+  {
+    "source": "Kaggle",
+    "flower_type": "daisy",
+    "path": "/data/daisy/daisy_0070.jpg"
+  },
+  {
+    "source": "Kaggle",
+    "flower_type": "daisy",
+    "path": "/data/daisy/daisy_0071.jpg"
+  },
+  {
+    "source": "Kaggle",
+    "flower_type": "daisy",
+    "path": "/data/daisy/daisy_0072.jpg"
+  },
+  {
+    "source": "Kaggle",
+    "flower_type": "daisy",
+    "path": "/data/daisy/daisy_0073.jpg"
+  },
+  {
+    "source": "Kaggle",
+    "flower_type": "daisy",
+    "path": "/data/daisy/daisy_0074.jpg"
+  },
+  {
+    "source": "Kaggle",
+    "flower_type": "daisy",
+    "path": "/data/daisy/daisy_0075.jpg"
+  },
+  {
+    "source": "Kaggle",
+    "flower_type": "daisy",
+    "path": "/data/daisy/daisy_0076.jpg"
+  },
+  {
+    "source": "Kaggle",
+    "flower_type": "daisy",
+    "path": "/data/daisy/daisy_0077.jpg"
+  },
+  {
+    "source": "Kaggle",
+    "flower_type": "daisy",
+    "path": "/data/daisy/daisy_0078.jpg"
+  },
+  {
+    "source": "Kaggle",
+    "flower_type": "daisy",
+    "path": "/data/daisy/daisy_0079.jpg"
+  },
+  {
+    "source": "Kaggle",
+    "flower_type": "daisy",
+    "path": "/data/daisy/daisy_0080.jpg"
+  },
+  {
+    "source": "Kaggle",
+    "flower_type": "daisy",
+    "path": "/data/daisy/daisy_0081.jpg"
+  },
+  {
+    "source": "Kaggle",
+    "flower_type": "daisy",
+    "path": "/data/daisy/daisy_0082.jpg"
+  },
+  {
+    "source": "Kaggle",
+    "flower_type": "daisy",
+    "path": "/data/daisy/daisy_0083.jpg"
+  },
+  {
+    "source": "Kaggle",
+    "flower_type": "daisy",
+    "path": "/data/daisy/daisy_0084.jpg"
+  },
+  {
+    "source": "Kaggle",
+    "flower_type": "daisy",
+    "path": "/data/daisy/daisy_0085.jpg"
+  },
+  {
+    "source": "Kaggle",
+    "flower_type": "daisy",
+    "path": "/data/daisy/daisy_0086.jpg"
+  },
+  {
+    "source": "Kaggle",
+    "flower_type": "daisy",
+    "path": "/data/daisy/daisy_0087.jpg"
+  },
+  {
+    "source": "Kaggle",
+    "flower_type": "daisy",
+    "path": "/data/daisy/daisy_0088.jpg"
+  },
+  {
+    "source": "Kaggle",
+    "flower_type": "daisy",
+    "path": "/data/daisy/daisy_0089.jpg"
+  },
+  {
+    "source": "Kaggle",
+    "flower_type": "daisy",
+    "path": "/data/daisy/daisy_0090.jpg"
+  },
+  {
+    "source": "Kaggle",
+    "flower_type": "daisy",
+    "path": "/data/daisy/daisy_0091.jpg"
+  },
+  {
+    "source": "Kaggle",
+    "flower_type": "daisy",
+    "path": "/data/daisy/daisy_0092.jpg"
+  },
+  {
+    "source": "Kaggle",
+    "flower_type": "daisy",
+    "path": "/data/daisy/daisy_0093.jpg"
+  },
+  {
+    "source": "Kaggle",
+    "flower_type": "daisy",
+    "path": "/data/daisy/daisy_0094.jpg"
+  },
+  {
+    "source": "Kaggle",
+    "flower_type": "daisy",
+    "path": "/data/daisy/daisy_0095.jpg"
+  },
+  {
+    "source": "Kaggle",
+    "flower_type": "daisy",
+    "path": "/data/daisy/daisy_0096.jpg"
+  },
+  {
+    "source": "Kaggle",
+    "flower_type": "daisy",
+    "path": "/data/daisy/daisy_0097.jpg"
+  },
+  {
+    "source": "Kaggle",
+    "flower_type": "daisy",
+    "path": "/data/daisy/daisy_0098.jpg"
+  },
+  {
+    "source": "Kaggle",
+    "flower_type": "daisy",
+    "path": "/data/daisy/daisy_0099.jpg"
+  },
+  {
+    "source": "Kaggle",
+    "flower_type": "daisy",
+    "path": "/data/daisy/daisy_0100.jpg"
+  },
+  {
+    "source": "Kaggle",
+    "flower_type": "daisy",
+    "path": "/data/daisy/daisy_0101.jpg"
+  },
+  {
+    "source": "Kaggle",
+    "flower_type": "daisy",
+    "path": "/data/daisy/daisy_0102.jpg"
+  },
+  {
+    "source": "Kaggle",
+    "flower_type": "daisy",
+    "path": "/data/daisy/daisy_0103.jpg"
+  },
+  {
+    "source": "Kaggle",
+    "flower_type": "daisy",
+    "path": "/data/daisy/daisy_0104.jpg"
+  },
+  {
+    "source": "Kaggle",
+    "flower_type": "daisy",
+    "path": "/data/daisy/daisy_0105.jpg"
+  },
+  {
+    "source": "Kaggle",
+    "flower_type": "daisy",
+    "path": "/data/daisy/daisy_0106.jpg"
+  },
+  {
+    "source": "Kaggle",
+    "flower_type": "daisy",
+    "path": "/data/daisy/daisy_0107.jpg"
+  },
+  {
+    "source": "Kaggle",
+    "flower_type": "daisy",
+    "path": "/data/daisy/daisy_0108.jpg"
+  },
+  {
+    "source": "Kaggle",
+    "flower_type": "daisy",
+    "path": "/data/daisy/daisy_0109.jpg"
+  },
+  {
+    "source": "Kaggle",
+    "flower_type": "daisy",
+    "path": "/data/daisy/daisy_0110.jpg"
+  },
+  {
+    "source": "Kaggle",
+    "flower_type": "daisy",
+    "path": "/data/daisy/daisy_0111.jpg"
+  },
+  {
+    "source": "Kaggle",
+    "flower_type": "daisy",
+    "path": "/data/daisy/daisy_0112.jpg"
+  },
+  {
+    "source": "Kaggle",
+    "flower_type": "daisy",
+    "path": "/data/daisy/daisy_0113.jpg"
+  },
+  {
+    "source": "Kaggle",
+    "flower_type": "daisy",
+    "path": "/data/daisy/daisy_0114.jpg"
+  },
+  {
+    "source": "Kaggle",
+    "flower_type": "daisy",
+    "path": "/data/daisy/daisy_0115.jpg"
+  },
+  {
+    "source": "Kaggle",
+    "flower_type": "daisy",
+    "path": "/data/daisy/daisy_0116.jpg"
+  },
+  {
+    "source": "Kaggle",
+    "flower_type": "daisy",
+    "path": "/data/daisy/daisy_0117.jpg"
+  },
+  {
+    "source": "Kaggle",
+    "flower_type": "daisy",
+    "path": "/data/daisy/daisy_0118.jpg"
+  },
+  {
+    "source": "Kaggle",
+    "flower_type": "daisy",
+    "path": "/data/daisy/daisy_0119.jpg"
+  },
+  {
+    "source": "Kaggle",
+    "flower_type": "daisy",
+    "path": "/data/daisy/daisy_0120.jpg"
+  },
+  {
+    "source": "Kaggle",
+    "flower_type": "daisy",
+    "path": "/data/daisy/daisy_0121.jpg"
+  },
+  {
+    "source": "Kaggle",
+    "flower_type": "daisy",
+    "path": "/data/daisy/daisy_0122.jpg"
+  },
+  {
+    "source": "Kaggle",
+    "flower_type": "daisy",
+    "path": "/data/daisy/daisy_0123.jpg"
+  },
+  {
+    "source": "Kaggle",
+    "flower_type": "daisy",
+    "path": "/data/daisy/daisy_0124.jpg"
+  },
+  {
+    "source": "Kaggle",
+    "flower_type": "daisy",
+    "path": "/data/daisy/daisy_0125.jpg"
+  },
+  {
+    "source": "Kaggle",
+    "flower_type": "daisy",
+    "path": "/data/daisy/daisy_0126.jpg"
+  },
+  {
+    "source": "Kaggle",
+    "flower_type": "daisy",
+    "path": "/data/daisy/daisy_0127.jpg"
+  },
+  {
+    "source": "Kaggle",
+    "flower_type": "daisy",
+    "path": "/data/daisy/daisy_0128.jpg"
+  },
+  {
+    "source": "Kaggle",
+    "flower_type": "daisy",
+    "path": "/data/daisy/daisy_0129.jpg"
+  }
+]

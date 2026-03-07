@@ -1,0 +1,677 @@
+[
+  {
+    "source": "Kaggle",
+    "flower_type": "sunflower",
+    "path": "/data/sunflower/sunflower_0000.jpg"
+  },
+  {
+    "source": "Kaggle",
+    "flower_type": "sunflower",
+    "path": "/data/sunflower/sunflower_0001.jpg"
+  },
+  {
+    "source": "Kaggle",
+    "flower_type": "sunflower",
+    "path": "/data/sunflower/sunflower_0002.jpg"
+  },
+  {
+    "source": "Kaggle",
+    "flower_type": "sunflower",
+    "path": "/data/sunflower/sunflower_0003.jpg"
+  },
+  {
+    "source": "Kaggle",
+    "flower_type": "sunflower",
+    "path": "/data/sunflower/sunflower_0004.jpg"
+  },
+  {
+    "source": "Kaggle",
+    "flower_type": "sunflower",
+    "path": "/data/sunflower/sunflower_0005.jpg"
+  },
+  {
+    "source": "Kaggle",
+    "flower_type": "sunflower",
+    "path": "/data/sunflower/sunflower_0006.jpg"
+  },
+  {
+    "source": "Kaggle",
+    "flower_type": "sunflower",
+    "path": "/data/sunflower/sunflower_0007.jpg"
+  },
+  {
+    "source": "Kaggle",
+    "flower_type": "sunflower",
+    "path": "/data/sunflower/sunflower_0008.jpg"
+  },
+  {
+    "source": "Kaggle",
+    "flower_type": "sunflower",
+    "path": "/data/sunflower/sunflower_0009.jpg"
+  },
+  {
+    "source": "Kaggle",
+    "flower_type": "sunflower",
+    "path": "/data/sunflower/sunflower_0010.jpg"
+  },
+  {
+    "source": "Kaggle",
+    "flower_type": "sunflower",
+    "path": "/data/sunflower/sunflower_0011.jpg"
+  },
+  {
+    "source": "Kaggle",
+    "flower_type": "sunflower",
+    "path": "/data/sunflower/sunflower_0012.jpg"
+  },
+  {
+    "source": "Kaggle",
+    "flower_type": "sunflower",
+    "path": "/data/sunflower/sunflower_0013.jpg"
+  },
+  {
+    "source": "Kaggle",
+    "flower_type": "sunflower",
+    "path": "/data/sunflower/sunflower_0014.jpg"
+  },
+  {
+    "source": "Kaggle",
+    "flower_type": "sunflower",
+    "path": "/data/sunflower/sunflower_0015.jpg"
+  },
+  {
+    "source": "Kaggle",
+    "flower_type": "sunflower",
+    "path": "/data/sunflower/sunflower_0016.jpg"
+  },
+  {
+    "source": "Kaggle",
+    "flower_type": "sunflower",
+    "path": "/data/sunflower/sunflower_0017.jpg"
+  },
+  {
+    "source": "Kaggle",
+    "flower_type": "sunflower",
+    "path": "/data/sunflower/sunflower_0018.jpg"
+  },
+  {
+    "source": "Kaggle",
+    "flower_type": "sunflower",
+    "path": "/data/sunflower/sunflower_0019.jpg"
+  },
+  {
+    "source": "Kaggle",
+    "flower_type": "sunflower",
+    "path": "/data/sunflower/sunflower_0020.jpg"
+  },
+  {
+    "source": "Kaggle",
+    "flower_type": "sunflower",
+    "path": "/data/sunflower/sunflower_0021.jpg"
+  },
+  {
+    "source": "Kaggle",
+    "flower_type": "sunflower",
+    "path": "/data/sunflower/sunflower_0022.jpg"
+  },
+  {
+    "source": "Kaggle",
+    "flower_type": "sunflower",
+    "path": "/data/sunflower/sunflower_0023.jpg"
+  },
+  {
+    "source": "Kaggle",
+    "flower_type": "sunflower",
+    "path": "/data/sunflower/sunflower_0024.jpg"
+  },
+  {
+    "source": "Kaggle",
+    "flower_type": "sunflower",
+    "path": "/data/sunflower/sunflower_0025.jpg"
+  },
+  {
+    "source": "Kaggle",
+    "flower_type": "sunflower",
+    "path": "/data/sunflower/sunflower_0026.jpg"
+  },
+  {
+    "source": "Kaggle",
+    "flower_type": "sunflower",
+    "path": "/data/sunflower/sunflower_0027.jpg"
+  },
+  {
+    "source": "Kaggle",
+    "flower_type": "sunflower",
+    "path": "/data/sunflower/sunflower_0028.jpg"
+  },
+  {
+    "source": "Kaggle",
+    "flower_type": "sunflower",
+    "path": "/data/sunflower/sunflower_0029.jpg"
+  },
+  {
+    "source": "Kaggle",
+    "flower_type": "sunflower",
+    "path": "/data/sunflower/sunflower_0030.jpg"
+  },
+  {
+    "source": "Kaggle",
+    "flower_type": "sunflower",
+    "path": "/data/sunflower/sunflower_0031.jpg"
+  },
+  {
+    "source": "Kaggle",
+    "flower_type": "sunflower",
+    "path": "/data/sunflower/sunflower_0032.jpg"
+  },
+  {
+    "source": "Kaggle",
+    "flower_type": "sunflower",
+    "path": "/data/sunflower/sunflower_0033.jpg"
+  },
+  {
+    "source": "Kaggle",
+    "flower_type": "sunflower",
+    "path": "/data/sunflower/sunflower_0034.jpg"
+  },
+  {
+    "source": "Kaggle",
+    "flower_type": "sunflower",
+    "path": "/data/sunflower/sunflower_0035.jpg"
+  },
+  {
+    "source": "Kaggle",
+    "flower_type": "sunflower",
+    "path": "/data/sunflower/sunflower_0036.jpg"
+  },
+  {
+    "source": "Kaggle",
+    "flower_type": "sunflower",
+    "path": "/data/sunflower/sunflower_0037.jpg"
+  },
+  {
+    "source": "Kaggle",
+    "flower_type": "sunflower",
+    "path": "/data/sunflower/sunflower_0038.jpg"
+  },
+  {
+    "source": "Kaggle",
+    "flower_type": "sunflower",
+    "path": "/data/sunflower/sunflower_0039.jpg"
+  },
+  {
+    "source": "Kaggle",
+    "flower_type": "sunflower",
+    "path": "/data/sunflower/sunflower_0040.jpg"
+  },
+  {
+    "source": "Kaggle",
+    "flower_type": "sunflower",
+    "path": "/data/sunflower/sunflower_0041.jpg"
+  },
+  {
+    "source": "Kaggle",
+    "flower_type": "sunflower",
+    "path": "/data/sunflower/sunflower_0042.jpg"
+  },
+  {
+    "source": "Kaggle",
+    "flower_type": "sunflower",
+    "path": "/data/sunflower/sunflower_0043.jpg"
+  },
+  {
+    "source": "Kaggle",
+    "flower_type": "sunflower",
+    "path": "/data/sunflower/sunflower_0044.jpg"
+  },
+  {
+    "source": "Kaggle",
+    "flower_type": "sunflower",
+    "path": "/data/sunflower/sunflower_0045.jpg"
+  },
+  {
+    "source": "Kaggle",
+    "flower_type": "sunflower",
+    "path": "/data/sunflower/sunflower_0046.jpg"
+  },
+  {
+    "source": "Kaggle",
+    "flower_type": "sunflower",
+    "path": "/data/sunflower/sunflower_0047.jpg"
+  },
+  {
+    "source": "Kaggle",
+    "flower_type": "sunflower",
+    "path": "/data/sunflower/sunflower_0048.jpg"
+  },
+  {
+    "source": "Kaggle",
+    "flower_type": "sunflower",
+    "path": "/data/sunflower/sunflower_0049.jpg"
+  },
+  {
+    "source": "Kaggle",
+    "flower_type": "sunflower",
+    "path": "/data/sunflower/sunflower_0050.jpg"
+  },
+  {
+    "source": "Kaggle",
+    "flower_type": "sunflower",
+    "path": "/data/sunflower/sunflower_0051.jpg"
+  },
+  {
+    "source": "Kaggle",
+    "flower_type": "sunflower",
+    "path": "/data/sunflower/sunflower_0052.jpg"
+  },
+  {
+    "source": "Kaggle",
+    "flower_type": "sunflower",
+    "path": "/data/sunflower/sunflower_0053.jpg"
+  },
+  {
+    "source": "Kaggle",
+    "flower_type": "sunflower",
+    "path": "/data/sunflower/sunflower_0054.jpg"
+  },
+  {
+    "source": "Kaggle",
+    "flower_type": "sunflower",
+    "path": "/data/sunflower/sunflower_0055.jpg"
+  },
+  {
+    "source": "Kaggle",
+    "flower_type": "sunflower",
+    "path": "/data/sunflower/sunflower_0056.jpg"
+  },
+  {
+    "source": "Kaggle",
+    "flower_type": "sunflower",
+    "path": "/data/sunflower/sunflower_0057.jpg"
+  },
+  {
+    "source": "Kaggle",
+    "flower_type": "sunflower",
+    "path": "/data/sunflower/sunflower_0058.jpg"
+  },
+  {
+    "source": "Kaggle",
+    "flower_type": "sunflower",
+    "path": "/data/sunflower/sunflower_0059.jpg"
+  },
+  {
+    "source": "Kaggle",
+    "flower_type": "sunflower",
+    "path": "/data/sunflower/sunflower_0060.jpg"
+  },
+  {
+    "source": "Kaggle",
+    "flower_type": "sunflower",
+    "path": "/data/sunflower/sunflower_0061.jpg"
+  },
+  {
+    "source": "Kaggle",
+    "flower_type": "sunflower",
+    "path": "/data/sunflower/sunflower_0062.jpg"
+  },
+  {
+    "source": "Kaggle",
+    "flower_type": "sunflower",
+    "path": "/data/sunflower/sunflower_0063.jpg"
+  },
+  {
+    "source": "Kaggle",
+    "flower_type": "sunflower",
+    "path": "/data/sunflower/sunflower_0064.jpg"
+  },
+  {
+    "source": "Kaggle",
+    "flower_type": "sunflower",
+    "path": "/data/sunflower/sunflower_0065.jpg"
+  },
+  {
+    "source": "Kaggle",
+    "flower_type": "sunflower",
+    "path": "/data/sunflower/sunflower_0066.jpg"
+  },
+  {
+    "source": "Kaggle",
+    "flower_type": "sunflower",
+    "path": "/data/sunflower/sunflower_0067.jpg"
+  },
+  {
+    "source": "Kaggle",
+    "flower_type": "sunflower",
+    "path": "/data/sunflower/sunflower_0068.jpg"
+  },
+  {
+    "source": "Kaggle",
+    "flower_type": "sunflower",
+    "path": "/data/sunflower/sunflower_0069.jpg"
+  },
+  {
+    "source": "Kaggle",
+    "flower_type": "sunflower",
+    "path": "/data/sunflower/sunflower_0070.jpg"
+  },
+  {
+    "source": "Kaggle",
+    "flower_type": "sunflower",
+    "path": "/data/sunflower/sunflower_0071.jpg"
+  },
+  {
+    "source": "Kaggle",
+    "flower_type": "sunflower",
+    "path": "/data/sunflower/sunflower_0072.jpg"
+  },
+  {
+    "source": "Kaggle",
+    "flower_type": "sunflower",
+    "path": "/data/sunflower/sunflower_0073.jpg"
+  },
+  {
+    "source": "Kaggle",
+    "flower_type": "sunflower",
+    "path": "/data/sunflower/sunflower_0074.jpg"
+  },
+  {
+    "source": "Kaggle",
+    "flower_type": "sunflower",
+    "path": "/data/sunflower/sunflower_0075.jpg"
+  },
+  {
+    "source": "Kaggle",
+    "flower_type": "sunflower",
+    "path": "/data/sunflower/sunflower_0076.jpg"
+  },
+  {
+    "source": "Kaggle",
+    "flower_type": "sunflower",
+    "path": "/data/sunflower/sunflower_0077.jpg"
+  },
+  {
+    "source": "Kaggle",
+    "flower_type": "sunflower",
+    "path": "/data/sunflower/sunflower_0078.jpg"
+  },
+  {
+    "source": "Kaggle",
+    "flower_type": "sunflower",
+    "path": "/data/sunflower/sunflower_0079.jpg"
+  },
+  {
+    "source": "Kaggle",
+    "flower_type": "sunflower",
+    "path": "/data/sunflower/sunflower_0080.jpg"
+  },
+  {
+    "source": "Kaggle",
+    "flower_type": "sunflower",
+    "path": "/data/sunflower/sunflower_0081.jpg"
+  },
+  {
+    "source": "Kaggle",
+    "flower_type": "sunflower",
+    "path": "/data/sunflower/sunflower_0082.jpg"
+  },
+  {
+    "source": "Kaggle",
+    "flower_type": "sunflower",
+    "path": "/data/sunflower/sunflower_0083.jpg"
+  },
+  {
+    "source": "Kaggle",
+    "flower_type": "sunflower",
+    "path": "/data/sunflower/sunflower_0084.jpg"
+  },
+  {
+    "source": "Kaggle",
+    "flower_type": "sunflower",
+    "path": "/data/sunflower/sunflower_0085.jpg"
+  },
+  {
+    "source": "Kaggle",
+    "flower_type": "sunflower",
+    "path": "/data/sunflower/sunflower_0086.jpg"
+  },
+  {
+    "source": "Kaggle",
+    "flower_type": "sunflower",
+    "path": "/data/sunflower/sunflower_0087.jpg"
+  },
+  {
+    "source": "Kaggle",
+    "flower_type": "sunflower",
+    "path": "/data/sunflower/sunflower_0088.jpg"
+  },
+  {
+    "source": "Kaggle",
+    "flower_type": "sunflower",
+    "path": "/data/sunflower/sunflower_0089.jpg"
+  },
+  {
+    "source": "Kaggle",
+    "flower_type": "sunflower",
+    "path": "/data/sunflower/sunflower_0090.jpg"
+  },
+  {
+    "source": "Kaggle",
+    "flower_type": "sunflower",
+    "path": "/data/sunflower/sunflower_0091.jpg"
+  },
+  {
+    "source": "Kaggle",
+    "flower_type": "sunflower",
+    "path": "/data/sunflower/sunflower_0092.jpg"
+  },
+  {
+    "source": "Kaggle",
+    "flower_type": "sunflower",
+    "path": "/data/sunflower/sunflower_0093.jpg"
+  },
+  {
+    "source": "Kaggle",
+    "flower_type": "sunflower",
+    "path": "/data/sunflower/sunflower_0094.jpg"
+  },
+  {
+    "source": "Kaggle",
+    "flower_type": "sunflower",
+    "path": "/data/sunflower/sunflower_0095.jpg"
+  },
+  {
+    "source": "Kaggle",
+    "flower_type": "sunflower",
+    "path": "/data/sunflower/sunflower_0096.jpg"
+  },
+  {
+    "source": "Kaggle",
+    "flower_type": "sunflower",
+    "path": "/data/sunflower/sunflower_0097.jpg"
+  },
+  {
+    "source": "Kaggle",
+    "flower_type": "sunflower",
+    "path": "/data/sunflower/sunflower_0098.jpg"
+  },
+  {
+    "source": "Kaggle",
+    "flower_type": "sunflower",
+    "path": "/data/sunflower/sunflower_0099.jpg"
+  },
+  {
+    "source": "Kaggle",
+    "flower_type": "sunflower",
+    "path": "/data/sunflower/sunflower_0100.jpg"
+  },
+  {
+    "source": "Kaggle",
+    "flower_type": "sunflower",
+    "path": "/data/sunflower/sunflower_0101.jpg"
+  },
+  {
+    "source": "Kaggle",
+    "flower_type": "sunflower",
+    "path": "/data/sunflower/sunflower_0102.jpg"
+  },
+  {
+    "source": "Kaggle",
+    "flower_type": "sunflower",
+    "path": "/data/sunflower/sunflower_0103.jpg"
+  },
+  {
+    "source": "Kaggle",
+    "flower_type": "sunflower",
+    "path": "/data/sunflower/sunflower_0104.jpg"
+  },
+  {
+    "source": "Kaggle",
+    "flower_type": "sunflower",
+    "path": "/data/sunflower/sunflower_0105.jpg"
+  },
+  {
+    "source": "Kaggle",
+    "flower_type": "sunflower",
+    "path": "/data/sunflower/sunflower_0106.jpg"
+  },
+  {
+    "source": "Kaggle",
+    "flower_type": "sunflower",
+    "path": "/data/sunflower/sunflower_0107.jpg"
+  },
+  {
+    "source": "Kaggle",
+    "flower_type": "sunflower",
+    "path": "/data/sunflower/sunflower_0108.jpg"
+  },
+  {
+    "source": "Kaggle",
+    "flower_type": "sunflower",
+    "path": "/data/sunflower/sunflower_0109.jpg"
+  },
+  {
+    "source": "Kaggle",
+    "flower_type": "sunflower",
+    "path": "/data/sunflower/sunflower_0110.jpg"
+  },
+  {
+    "source": "Kaggle",
+    "flower_type": "sunflower",
+    "path": "/data/sunflower/sunflower_0111.jpg"
+  },
+  {
+    "source": "Kaggle",
+    "flower_type": "sunflower",
+    "path": "/data/sunflower/sunflower_0112.jpg"
+  },
+  {
+    "source": "Kaggle",
+    "flower_type": "sunflower",
+    "path": "/data/sunflower/sunflower_0113.jpg"
+  },
+  {
+    "source": "Kaggle",
+    "flower_type": "sunflower",
+    "path": "/data/sunflower/sunflower_0114.jpg"
+  },
+  {
+    "source": "Kaggle",
+    "flower_type": "sunflower",
+    "path": "/data/sunflower/sunflower_0115.jpg"
+  },
+  {
+    "source": "Kaggle",
+    "flower_type": "sunflower",
+    "path": "/data/sunflower/sunflower_0116.jpg"
+  },
+  {
+    "source": "Kaggle",
+    "flower_type": "sunflower",
+    "path": "/data/sunflower/sunflower_0117.jpg"
+  },
+  {
+    "source": "Kaggle",
+    "flower_type": "sunflower",
+    "path": "/data/sunflower/sunflower_0118.jpg"
+  },
+  {
+    "source": "Kaggle",
+    "flower_type": "sunflower",
+    "path": "/data/sunflower/sunflower_0119.jpg"
+  },
+  {
+    "source": "Kaggle",
+    "flower_type": "sunflower",
+    "path": "/data/sunflower/sunflower_0120.jpg"
+  },
+  {
+    "source": "Kaggle",
+    "flower_type": "sunflower",
+    "path": "/data/sunflower/sunflower_0121.jpg"
+  },
+  {
+    "source": "Kaggle",
+    "flower_type": "sunflower",
+    "path": "/data/sunflower/sunflower_0122.jpg"
+  },
+  {
+    "source": "Kaggle",
+    "flower_type": "sunflower",
+    "path": "/data/sunflower/sunflower_0123.jpg"
+  },
+  {
+    "source": "Kaggle",
+    "flower_type": "sunflower",
+    "path": "/data/sunflower/sunflower_0124.jpg"
+  },
+  {
+    "source": "Kaggle",
+    "flower_type": "sunflower",
+    "path": "/data/sunflower/sunflower_0125.jpg"
+  },
+  {
+    "source": "Kaggle",
+    "flower_type": "sunflower",
+    "path": "/data/sunflower/sunflower_0126.jpg"
+  },
+  {
+    "source": "Kaggle",
+    "flower_type": "sunflower",
+    "path": "/data/sunflower/sunflower_0127.jpg"
+  },
+  {
+    "source": "Kaggle",
+    "flower_type": "sunflower",
+    "path": "/data/sunflower/sunflower_0128.jpg"
+  },
+  {
+    "source": "Kaggle",
+    "flower_type": "sunflower",
+    "path": "/data/sunflower/sunflower_0129.jpg"
+  },
+  {
+    "source": "Kaggle",
+    "flower_type": "sunflower",
+    "path": "/data/sunflower/sunflower_0130.jpg"
+  },
+  {
+    "source": "Kaggle",
+    "flower_type": "sunflower",
+    "path": "/data/sunflower/sunflower_0131.jpg"
+  },
+  {
+    "source": "Kaggle",
+    "flower_type": "sunflower",
+    "path": "/data/sunflower/sunflower_0132.jpg"
+  },
+  {
+    "source": "Kaggle",
+    "flower_type": "sunflower",
+    "path": "/data/sunflower/sunflower_0133.jpg"
+  },
+  {
+    "source": "Kaggle",
+    "flower_type": "sunflower",
+    "path": "/data/sunflower/sunflower_0134.jpg"
+  }
+]

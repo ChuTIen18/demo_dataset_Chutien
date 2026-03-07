@@ -1,0 +1,18 @@
+{
+  "dataset_name": "image_dataset_v1",
+  "total_images": 1037,
+  "labels": [
+    "apricot_blossom",
+    "daisy",
+    "dandelion",
+    "peach_blossom",
+    "rose",
+    "sunflower",
+    "tulip"
+  ],
+  "splits": {
+    "train": 0.7,
+    "val": 0.2,
+    "test": 0.1
+  }
+}
