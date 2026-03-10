@@ -12,7 +12,7 @@ INPUT_DIR = "input_images"
 OUTPUT_DIR = "dataset"
 
 TRAIN_RATIO = 0.7
-VAL_RATIO = 0.2
+VAL_RATIO = 0.2     
 TEST_RATIO = 0.1
 
 random.seed(42)
