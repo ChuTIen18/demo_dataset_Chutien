@@ -127,7 +127,9 @@ transform = transforms.Compose([
 # DATASET
 # ==================================================
 
-dataset_path = "dataset/images"
+# Danh sách các folders hiện tại đã chạy rồi
+transforming_folders = ['apricot_blossom', 'daisy', 'dandelion','hibiscus']
+dataset_path = "input_images"
 
 augmenter = ImageAugmentation()
 
@@ -140,41 +142,44 @@ image_paths = []
 # ==================================================
 
 for root,dirs,files in os.walk(dataset_path):
+    # Lấy tên folder hiện tại,chỉ duyệt những folder đã định sẵn trong transforming_folders
+    current_folder = os.path.basename(root)
+    
+    if current_folder in transforming_folders:
+        for file in files:
 
-    for file in files:
+            if file.lower().endswith((".jpg",".jpeg",".png")):
 
-        if file.lower().endswith((".jpg",".jpeg",".png")):
+                img_path = os.path.join(root,file)
 
-            img_path = os.path.join(root,file)
-
-            try:
+                try:
 
                 # augmentation
-                aug_img = augmenter.execute_pipeline(img_path)
+                    aug_img = augmenter.execute_pipeline(img_path)
 
-                if aug_img is None:
-                    continue
+                    if aug_img is None:
+                        continue
 
                 # convert to PIL
-                pil_img = Image.fromarray(aug_img)
+                    pil_img = Image.fromarray(aug_img)
 
                 # tensor transform
-                img_tensor = transform(pil_img)
-                img_tensor = img_tensor.unsqueeze(0)
+                    img_tensor = transform(pil_img)
+                    img_tensor = img_tensor.unsqueeze(0)
 
                 # feature extraction
-                with torch.no_grad():
-                    feature = model(img_tensor)
+                    with torch.no_grad():
+                        feature = model(img_tensor)
 
-                feature = feature.squeeze().numpy()
+                    feature = feature.squeeze().numpy()
 
-                features.append(feature)
-                image_paths.append(img_path)
+                    features.append(feature)
+                    image_paths.append(img_path)
 
-                print("processed:", img_path)
+                    print("processed:", img_path)
 
-            except Exception as e:
-                print("error:", img_path, e)
+                except Exception as e:
+                    print("error:", img_path, e)
 
 
 # ==================================================
