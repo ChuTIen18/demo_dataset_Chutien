@@ -133,48 +133,57 @@ augmenter = ImageAugmentation()
 
 features = []
 image_paths = []
+splits = []
 
 
 # ==================================================
 # PIPELINE
 # ==================================================
 
-for root,dirs,files in os.walk(dataset_path):
+for split in ["train","val","test"]:
 
-    for file in files:
+    split_path = os.path.join(dataset_path, split)
 
-        if file.lower().endswith((".jpg",".jpeg",".png")):
+    if not os.path.exists(split_path):
+        continue
 
-            img_path = os.path.join(root,file)
+    for root,dirs,files in os.walk(split_path):
 
-            try:
+        for file in files:
 
-                # augmentation
-                aug_img = augmenter.execute_pipeline(img_path)
+            if file.lower().endswith((".jpg",".jpeg",".png")):
 
-                if aug_img is None:
-                    continue
+                img_path = os.path.join(root,file)
 
-                # convert to PIL
-                pil_img = Image.fromarray(aug_img)
+                try:
 
-                # tensor transform
-                img_tensor = transform(pil_img)
-                img_tensor = img_tensor.unsqueeze(0)
+                    # augmentation
+                    aug_img = augmenter.execute_pipeline(img_path)
 
-                # feature extraction
-                with torch.no_grad():
-                    feature = model(img_tensor)
+                    if aug_img is None:
+                        continue
 
-                feature = feature.squeeze().numpy()
+                    # convert to PIL
+                    pil_img = Image.fromarray(aug_img)
 
-                features.append(feature)
-                image_paths.append(img_path)
+                    # tensor transform
+                    img_tensor = transform(pil_img)
+                    img_tensor = img_tensor.unsqueeze(0)
 
-                print("processed:", img_path)
+                    # feature extraction
+                    with torch.no_grad():
+                        feature = model(img_tensor)
 
-            except Exception as e:
-                print("error:", img_path, e)
+                    feature = feature.squeeze().numpy()
+
+                    features.append(feature)
+                    image_paths.append(img_path)
+                    splits.append(split)
+
+                    print("processed:", img_path)
+
+                except Exception as e:
+                    print("error:", img_path, e)
 
 
 # ==================================================
@@ -183,9 +192,11 @@ for root,dirs,files in os.walk(dataset_path):
 
 features = np.array(features)
 image_paths = np.array(image_paths)
+splits = np.array(splits)
 
 np.save("features.npy",features)
 np.save("image_paths.npy",image_paths)
+np.save("splits.npy",splits)
 
 print("\nDONE")
 print("features shape:",features.shape)
