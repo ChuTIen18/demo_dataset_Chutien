@@ -1,0 +1,6 @@
+services:
+  ml_trainer:
+    build: .
+    container_name: sklearn_svm_trainer
+    volumes:
+      - ./:/app
